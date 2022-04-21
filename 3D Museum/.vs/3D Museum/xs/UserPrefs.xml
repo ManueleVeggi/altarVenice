@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{003FF34E-AE02-E7D8-3E00-D4F2571B5121}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CharacterController_Visitor.cs">
+    <Files>
+      <File FileName="Assets/DialogueSystem.cs" Line="60" Column="42" />
+      <File FileName="Assets/NPC.cs" Line="35" Column="10" />
+      <File FileName="Assets/CameraLerpDisplacer.cs" Line="22" Column="1" />
+      <File FileName="Assets/CharacterController_Visitor.cs" Line="21" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3D Museum" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CharacterController_Visitor.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="eab97fd5-7a03-4282-9914-08f140d1b5e0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
